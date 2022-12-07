@@ -33,13 +33,13 @@
 
 <details>
   <summary> ⚡ GitHub Stats</summary>
-  <img align="left" alt="Andrew's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muhammed-mukthar&show_icons=true&hide_border=true" />
+  <img align="left" alt="Andrew's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vishnu-s-cs&show_icons=true&hide_border=true" />
 </details>
 
 
 <details>
   <summary> ⚡ Most Used Languages</summary>
-<img align="left" alt="Mukthar's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-s-cs" />
+<img align="left" alt="Vishnu's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-s-cs" />
 </details>
 
 ### * Databases:
